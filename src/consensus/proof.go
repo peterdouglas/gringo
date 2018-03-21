@@ -10,7 +10,7 @@ import (
 	"encoding/binary"
 	"errors"
 	"golang.org/x/crypto/blake2b"
-	"cuckoo"
+	cuckoo "github.com/dblokhin/gringo/src/cuckoo"
 )
 
 // RangeProof of work

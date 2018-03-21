@@ -10,7 +10,7 @@ import (
 	"bytes"
 	"encoding/binary"
 	"github.com/sirupsen/logrus"
-	"secp256k1zkp"
+	"github.com/dblokhin/gringo/src/secp256k1zkp"
 	"errors"
 	"golang.org/x/crypto/blake2b"
 	"fmt"

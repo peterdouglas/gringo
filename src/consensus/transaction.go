@@ -10,7 +10,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"encoding/binary"
 	"io"
-	"secp256k1zkp"
+	"github.com/dblokhin/gringo/src/secp256k1zkp"
 	"errors"
 	"sort"
 )

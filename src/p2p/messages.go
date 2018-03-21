@@ -8,7 +8,7 @@ import (
 	"io"
 	"encoding/binary"
 	"github.com/sirupsen/logrus"
-	"consensus"
+	"github.com/dblokhin/gringo/src/consensus"
 	"bytes"
 	"net"
 	"errors"

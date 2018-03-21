@@ -5,7 +5,7 @@
 package chain
 
 import (
-	"consensus"
+	"github.com/dblokhin/gringo/src/consensus"
 	"sync"
 	"bytes"
 	"time"

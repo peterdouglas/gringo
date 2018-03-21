@@ -7,7 +7,7 @@ package p2p
 import (
 	"sync"
 	"time"
-	"consensus"
+	"github.com/dblokhin/gringo/src/consensus"
 	"errors"
 	"github.com/sirupsen/logrus"
 	"net"

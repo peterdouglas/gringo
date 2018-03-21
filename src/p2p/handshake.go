@@ -6,7 +6,7 @@ package p2p
 
 import (
 	"net"
-	"consensus"
+	"github.com/dblokhin/gringo/src/consensus"
 	"encoding/binary"
 	"bytes"
 	"github.com/sirupsen/logrus"
